@@ -3,8 +3,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/tharindudulaj?style=social)](https://github.com/tharindudulaj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharindudulaj/)
 
-- 👀 I’m passionate about **web development** and software design
-- 🌱 I’m currently learning **C++** and **ReactJS**
+- 👀 I’m passionate about **web development** and **software design**
+- 🌱 I’m currently learning **Git** and **ReactJS**
 - 📫 How to reach me: [tharindudulaj11@gmail.com](mailto:tharindudulaj11@gmail.com)
 - ⚡ Fun fact: I am a **tech enthusiast** and **movie lover**
 
