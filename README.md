@@ -3,23 +3,29 @@
 [![GitHub followers](https://img.shields.io/github/followers/tharindudulaj?style=social)](https://github.com/tharindudulaj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharindudulaj/)
 
-- 👀 I’m passionate about **web development** and **software design**
-- 🌱 I’m currently learning **Git** and **ReactJS**
-- 📫 How to reach me: [tharindudulaj11@gmail.com](mailto:tharindudulaj11@gmail.com)
-- ⚡ Fun fact: I am a **tech enthusiast** and **movie lover**
+
+🚀 Passionate about **Software Engineering**, **Web & Mobile Development**, and **Problem Solving**.  
+💡 Always learning, building, and improving myself step by step.  
 
 ---
 
-### 🚀 About Me
-I'm passionate about coding and love exploring new technologies. Always eager to learn and build cool projects!
+### 👨‍💻 About Me
+- 🎓 Undergraduate at **SLIIT - Faculty of Computing**  
+- 🌱 Currently learning **React Native**, **Spring Boot**, and **Database Systems**  
+- 💼 Intern experience with **Next.js** and **NestJS**  
+- ⚡ Interested in **full-stack development**, **system design**, and **UI/UX engineering**  
+- 🏏 Cricket enthusiast | 🎶 Music lover | ✈️ Love traveling  
 
 ---
 
-### 🔧 Skills
-- Programming Languages: C, C++, Java, Python, JavaScript
-- Frontend: ReactJS, HTML, CSS
-- Backend: Node.js, Express.js, Java, PHP
-- Tools: Git, GitHub, VS Code, MySQL
+### 🛠️ Tech Stack
+- **Languages:** C, C++, Java, JavaScript, PHP  
+- **Frontend:** HTML, CSS, React, React Native, NextJs  
+- **Backend:** Node.js, NestJS, Spring Boot, PHP  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code, Android Studio, Figma  
+
+---
 
 ---
 
@@ -29,4 +35,4 @@ I'm passionate about coding and love exploring new technologies. Always eager to
 
 ---
 
-Thanks for visiting my profile! 😊
+✨ *“Discipline and consistency are the keys to growth.”* ✨
