@@ -4,28 +4,27 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharindudulaj/)
 
 
-🚀 Passionate about **Software Engineering**, **Web & Mobile Development**, and **Problem Solving**.  
-💡 Always learning, building, and improving myself step by step.  
+🎓 **Software Engineering Undergraduate** at SLIIT – Faculty of Computing  
+💻 Aspiring **Full-Stack Software Engineer** | Passionate about **Problem Solving & System Design**  
+🌱 Currently enhancing my knowledge in **React Native**, **Spring Boot**, and **Database Systems**  
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Undergraduate at **SLIIT - Faculty of Computing**  
-- 🌱 Currently learning **React Native**, **Spring Boot**, and **Database Systems**  
-- 💼 Intern experience with **Next.js** and **NestJS**  
-- ⚡ Interested in **full-stack development**, **system design**, and **UI/UX engineering**  
-- 🏏 Cricket enthusiast | 🎶 Music lover | ✈️ Love traveling  
+## 📌 About Me  
+- 🔹 Strong foundation in **programming (C, C++, Java, JavaScript, PHP)**  
+- 🔹 Experience in **web development** (Next.js, NestJS, PHP, MySQL) and **mobile app development** (React Native)  
+- 🔹 Interested in **software architecture**, **scalable systems**, and **user experience engineering**  
+- 🔹 Believer in discipline, continuous learning, and applying technology to solve real-world problems  
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** C, C++, Java, JavaScript, PHP  
-- **Frontend:** HTML, CSS, React, React Native, NextJs  
-- **Backend:** Node.js, NestJS, Spring Boot, PHP  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code, Android Studio, Figma  
+## 🛠️ Skills & Technologies  
 
----
+**Languages:** C, C++, Java, JavaScript, PHP  
+**Frontend:** HTML, CSS, React, React Native  
+**Backend:** Node.js, NestJS, Spring Boot, PHP  
+**Databases:** MySQL, MongoDB  
+**Tools & Platforms:** Git, GitHub, VS Code, Android Studio, Figma  
 
 ---
 
